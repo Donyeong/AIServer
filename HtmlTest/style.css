@@ -1,0 +1,21 @@
+body { 
+	background-image: url("https://image.freepik.com/free-vector/cute-yellow-flowers-seamless-pattern-background_42349-750.jpg");
+    background-repeat: repeat;
+	background-position: top right;
+}
+p {
+	color: red; text-decoration: underline;
+}
+h2{
+    color:green;
+}
+
+a:link, a:visited {
+	background-color: #FFA500;
+	color: maroon;
+	padding: 15px 25px;
+	text-align: center;	
+	text-decoration: none;
+	display: inline-block;
+}
+a:hover, a:active { background-color: #FF4500; }
